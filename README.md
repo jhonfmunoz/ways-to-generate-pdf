@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## npm install jspdf jspdf-autotable --save
+Ejecuta este comando para instalar las librerias de jspdf y autotable que extiende de jspdf
+
+## npm install html2canvas
+Ejecuta este comando para instalar las librerias de html2canvas junto con jspdf para genera un pdf de una vista html
+
+## npm i html2pdf.js@0.9.0 --save
+Ejecuta este comando para instalar las librerias de html2pdf para cargar los estilos css mas html
+
+## npm i pdfmake --save
+Para generar pdf de manera programatica
